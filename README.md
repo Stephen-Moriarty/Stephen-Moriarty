@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stephen-Moriarty
+- 👋 Hi, I’m Stephen-Moriarty
 - 👀 I’m interested in well alot of things but one of those things would be computers/electronics in general.
 - 🌱 I’m currently learning intro to computer science (but also others subjects in school).
 - 💞️ I’m looking to collaborate on: not really sure yet.
